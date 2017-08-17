@@ -1,0 +1,13 @@
+{
+    "name": "tobias-forkel/forkel_customshipping",
+    "type": "magento-module",
+    "license": "OSL",
+    "homepage": "https://github.com/tobias-forkel/Forkel_CustomShipping",
+    "description": "This Magento 1 extension allows you to provide a custom shipping method in backend only, frontend only or both.",
+    "authors": [
+        {
+            "name": "Tobias Forkel",
+            "email": "tobias.forkel@gmx.com"
+        }
+    ]
+}
